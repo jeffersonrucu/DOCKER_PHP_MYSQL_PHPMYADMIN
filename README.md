@@ -7,13 +7,12 @@ Setup símples para projetos em php para estudos
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="100">
 </div>
 
------
 
 ## Requisitos
 
 - Docker
 
-----
+
 
 ## Íniciando o projeto
 
@@ -21,7 +20,7 @@ Setup símples para projetos em php para estudos
 $ docker-compose up -d
 ```
 
-----
+
 
 ## Acessando na web
 
